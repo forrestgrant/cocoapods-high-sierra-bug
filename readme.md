@@ -17,3 +17,4 @@ Following these steps will produce the error:
 
 ## Notes
 * The app will run successfully by removing the 4 gems from the `Gemfile` (All gems except for `rake`)
+* Other than the `Gemfile`, this is a boilerplate RubyMotion iOS app.
