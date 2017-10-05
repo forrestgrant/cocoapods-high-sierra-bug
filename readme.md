@@ -1,7 +1,8 @@
-# Cocoapods & macOS High Sierra Incompatibility
+# RubyMotion Cocoapods & macOS High Sierra Incompatibility
 ## Environment
 * macOS 10.13 High Sierra
 * RubyMotion 5.2
+* xCode 9.0
 
 ## Steps to reproduce
 1. `$ git clone git@github.com:forrestgrant/cocoapods-high-sierra-bug.git`
